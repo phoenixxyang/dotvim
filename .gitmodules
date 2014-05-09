@@ -7,3 +7,12 @@
 [submodule "bundle/airline"]
 	path = bundle/airline
 	url = http://github.com/bling/vim-airline
+[submodule "bundle/vim-indent-guides"]
+	path = bundle/vim-indent-guides
+	url = http://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "bundle/wildfire"]
+	path = bundle/wildfire
+	url = http://github.com/Shougo/wildfire.vim.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = http://github.com/tpope/vim-surround.git
