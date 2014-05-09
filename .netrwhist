@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Volumes/Source/tools/cli'
+let g:netrw_dirhist_2='/Volumes/Source/Apex64bitTransition/otools/shared/xcconfig'
+let g:netrw_dirhist_3='/Volumes/Build/Logs/Apex64bitTransition/project_tests/Apex64bitTransition_2012-08-09_10.55.41_excel_ship_enu_qtest'
+let g:netrw_dirhist_4='/Users/phoenix/.vim'
+let g:netrw_dirhist_5='/Volumes/Build/Logs/Apex64bit/project_tests/Apex64bit_2012-09-24_11.00.01_gatekeeper_debug_enu_qtest'
+let g:netrw_dirhist_6='/Volumes/Source/Apex64bit/otools/shared/xcconfig'
+let g:netrw_dirhist_7='/Applications/Eclipse.app'
+let g:netrw_dirhist_8='/Users/phoenix'
+let g:netrw_dirhist_9='/Volumes/Source/sd/apex/main/oart/BundleResources/en.lproj/TableRowColumnDialog.nib'

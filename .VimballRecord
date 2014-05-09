@@ -1,0 +1,2 @@
+DrawIt.vba: call delete('/Users/phoenix/.vim/plugin/DrawItPlugin.vim')|call delete('/Users/phoenix/.vim/plugin/cecutil.vim')|call delete('/Users/phoenix/.vim/autoload/DrawIt.vim')|call delete('/Users/phoenix/.vim/doc/DrawIt.txt')
+xmledit-1.9.1.vba: call delete('/Users/phoenix/.vim/ftplugin/xml.vim')|call delete('/Users/phoenix/.vim/doc/xml-plugin.txt')
