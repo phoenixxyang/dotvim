@@ -54,7 +54,7 @@ set smartcase		" Do smart case matching
 execute pathogen#infect()
 
 """MacVim Settings
-set guifont=Monaco:h10
+set guifont=Monaco:h14
 set guioptions-=T
 set clipboard+=unnamed
 "set list                     " 显示Tab符，使用一高亮竖线代替
